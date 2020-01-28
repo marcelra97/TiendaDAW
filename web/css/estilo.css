@@ -1,0 +1,20 @@
+header{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    margin:auto;
+}
+
+body{
+background-color: #FFCC52;
+
+}
+
+main,h1{
+    margin:auto;
+}
+
+div{
+    margin-left: 40%;
+}
